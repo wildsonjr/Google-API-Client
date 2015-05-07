@@ -9,8 +9,8 @@ Pod::Spec.new do |s|
   s.description   = '                    Written by Google, this library is a flexible and efficient Objective-C\n                    framework for accessing JSON APIs.\n\n                    This is the recommended library for accessing JSON-based Google APIs\n                    for iOS and Mac OS X applications.\n                    \n                    This version can be used with iOS ≥ 5.0 or OS X ≥ 10.7.\n                    \n                    podspec version based on source SVN revision\n'
   s.platforms     = { :ios => '5.0', :osx => '10.7' }
   
-  s.dependency 'gtm-http-fetcher' '~>1.0.141'
-  s.dependency 'gtm-oauth2' '~>1.0.125'
+  s.dependency 'gtm-http-fetcher', '~>1.0.141'
+  s.dependency 'gtm-oauth2', '~>1.0.125'
   
   s.requires_arc = false
   
