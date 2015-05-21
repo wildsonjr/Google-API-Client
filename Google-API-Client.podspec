@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'Google-API-Client'
-  s.version       = '1.0.423’
+  s.version       = '1.0.423'
   s.author        = 'Google'
   s.license       = 'Apache License, Version 2.0'
   s.homepage      = 'https://github.com/wildsonjr/Google-API-Client'
